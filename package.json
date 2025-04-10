@@ -8,6 +8,7 @@
     "@jridgewell/sourcemap-codec": "^1.4.15",
     "@rollup/plugin-inject": "^5.0.3",
     "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
     "express-validator": "^7.0.1",
     "glob": "^10.3.10",
     "isolated-vm": "^4.7.2",
