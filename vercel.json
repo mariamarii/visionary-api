@@ -3,7 +3,8 @@
   "builds": [{
     "src": "api/**/*.js",
     "use": "@vercel/node",
-    "config": { "runtime": "nodejs20.x" }
+    "config": { "runtime": "nodej20.x" }
+
   }],
   "build": {
     "env": {
