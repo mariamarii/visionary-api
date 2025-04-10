@@ -1,4 +1,4 @@
-import db from '../../lib/db';
+import db from '../../lib/db.js';
 import { asyncHandler, apiResponse, validateRequest } from '../../lib/utils';
 import { body, param } from 'express-validator';
 import bcrypt from 'bcryptjs';
